@@ -1,9 +1,6 @@
-### Hi there, Chandan Choudhary 👋
+Hi there, Chandan Choudhary
 
-<!--
-**Chandan1307/Chandan1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About :
 
 - 🔭 I have completed my bachelor degree in Computer Science Engineering from DCURST University Murthal Haryana.
 - 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing, Big Data Technologies.
@@ -14,7 +11,6 @@ Here are some ideas to get you started:
 
 
 
-Skills: Machine Learning | Deep Learning | Medical Image Processing | Data Structure | Algorithms | Matrix Theory | Probability and Random Variables | Applied Statistics | Information Retrieval | Natural Language Processing | Big Data | Hadoop | MapReduce | Sqoop | Apache Hive | Apache Spark with Scala | Linux
+Skills: Python | Flask | Django Framework | MySQL, PostgreSQL | Machine Learning | Deep Learning | Statistics | Feature Engineering | Exploratory Data Analysis | Natural Language Processing | Big Data Technologies | Hadoop | PySpark | Backend Development | Frontend Development
 
 📫 Reach me at: infochandan1307@gmail.com
--->
