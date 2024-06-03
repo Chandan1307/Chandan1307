@@ -15,18 +15,31 @@ Skills: Python | Flask | Django Framework | MySQL, PostgreSQL | Statistics | Fea
 
 EXPERTISE:-
 • Python Developer
+
 • Django Developer
+
 • Data Analytics
+
 • Machine Learning
+
 • Data Engineering
+
 • Object-Oriented Programming (OOP)
+
 • Software Development Life Cycle (SDLC)
+
 • Database Management (MySQL, PostgreSQL, MongoDB (NoSQL))
+
 • Frontend Development (HTML, CSS, Bootstrap5)
+
 • Version Control (Git)
+
 • Problem Solving and Algorithm Design
+
 • API Development and Integration
+
 • Debugging and Testing
+
 • Agile and Scrum Methodologies
 
 
