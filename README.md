@@ -14,6 +14,7 @@ About :
 Skills: Python | Flask | Django Framework | MySQL, PostgreSQL | Statistics | Feature Engineering | Exploratory Data Analysis | Machine Learning | Deep Learning | Natural Language Processing | Big Data Technologies (Hadoop & PySpark).
 
 EXPERTISE:-
+
 • Python Developer
 
 • Django Developer
