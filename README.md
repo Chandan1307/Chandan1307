@@ -1,14 +1,16 @@
 
 # 👨‍💻 Chandan Choudhary
-**Software Engineer | Python | AI & ML Enthusiast | Data Analyst | Big Data Analyst | Cloud Technologies | Bug Fixing & Debugging | Software Testing**
+**Data Analyst | Python Developer | AI & ML Enthusiast | Business Data Analyst | Financial Data Analyst | Big Data Enthusiast**
 
 ---
 
 ## 🧩 About Me
-Software Engineer with a passion for **Python development**, **AI & ML**, **Data Analysis**, and **Big Data technologies**.  
-Experienced in **manual and automation testing**, **bug fixing**, **SDLC processes**, **cloud computing (AWS)**, and **database management**.  
-Dedicated to delivering **high-performance**, **optimized**, and **reliable** software and data-driven solutions.  
-Currently **open to work** in roles including:
+Passionate **Data Analyst** with a strong foundation in **Python programming**, **SQL databases**, **data visualization**, and **cloud technologies (AWS)**.  
+Proficient in collecting, cleaning, analyzing, and visualizing data to drive actionable insights and informed decision-making.  
+Transitioned from software engineering and QA roles with a strong emphasis on **data validation** and **process optimization**.  
+Dedicated to building scalable and efficient data-driven solutions.  
+
+**Open to work** in roles such as:
 - Data Analyst
 - Business Data Analyst
 - Financial Data Analyst
@@ -19,13 +21,12 @@ Currently **open to work** in roles including:
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python, Django, Flask, REST APIs, HTML, CSS
-- **Data Science & Analytics:** Numpy, Pandas, Machine Learning (Enthusiast), Data Visualization (Power BI)
-- **Database Management:** SQL, PostgreSQL
-- **Testing & Automation:** Selenium, Playwright, Postman
+- **Programming & Data Analysis:** Python (Pandas, Numpy), SQL, Data Cleaning, EDA
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Database Management:** PostgreSQL, SQL
+- **Cloud Technologies:** AWS (EC2, S3 basics), Elastic Beanstalk
+- **Big Data Basics:** Understanding of Hadoop, Spark (Learning Stage)
 - **Version Control:** Git, GitHub
-- **Cloud Technologies:** AWS (EC2, Elastic Beanstalk)
-- **Big Data Tools:** (learning/working towards - can specify like Spark, Hadoop if needed)
 
 ---
 
@@ -39,23 +40,22 @@ _2017 – 2022_
 
 ## 💼 Work Experience
 
-### 🏢 Software Engineer | Aquevix Solutions Pvt Ltd, Delhi  
+### 🏢 Data Analyst (Software Engineer Background) | Aquevix Solutions Pvt Ltd, Delhi  
 _Jul 2024 – Present_
-- Performing manual and automation testing using **Playwright**, **Selenium**, and **Python**.
-- Developing and optimizing test cases, scripts, and frameworks.
-- API testing with **Postman** and **REST APIs**, including database validation (**SQL**).
-- Collaborating in Agile/Scrum teams to improve SDLC processes.
+- Extracted, validated, and analyzed large datasets for application testing and quality improvements.
+- Developed Python scripts for data validation and reporting.
+- Collaborated with Agile teams to improve data-driven decision-making during SDLC processes.
 
-### 🏢 Software Engineer | Anaptyss India, Noida  
+### 🏢 Python Developer | Anaptyss India, Noida  
 _Sep – Dec 2023_
-- Developed scalable web applications using **Python** and **Django**.
-- Designed and managed databases for various projects.
-- Created and optimized **Power BI dashboards** for advanced data insights.
-- Engaged in continuous learning and knowledge sharing for project enhancements.
+- Designed and maintained relational databases to support analytics projects.
+- Created **Power BI dashboards** delivering actionable insights for business stakeholders.
+- Developed scalable backend APIs using Django to serve analytical data needs.
 
 ### 🏢 Python Developer Trainee | Fantasy Sports Pvt Ltd, Gurugram  
 _Jan – Jun 2023_
-- Developed **Django-based** web applications and **RESTful APIs** for real-time data processing.
+- Built Django-based web applications with real-time data APIs.
+- Implemented database designs optimized for high-volume transactional data.
 
 ---
 
@@ -63,6 +63,14 @@ _Jan – Jun 2023_
 
 - **Data Science Master Certification** - iNeuron Intelligence
 - **Python Programming Certification** - GrowingSeed Technologies
+
+---
+
+## 📈 Projects (Recommended to Add)
+
+- **Sales Data Dashboard**: Built an interactive Power BI dashboard to analyze monthly sales performance.
+- **Customer Churn Prediction**: Analyzed customer datasets using Python and built predictive models.
+- **Data Cleaning Pipeline**: Automated ETL (Extract, Transform, Load) processes for messy datasets using Python.
 
 ---
 
