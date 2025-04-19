@@ -40,14 +40,14 @@ _2017 – 2022_
 
 ## 💼 Work Experience
 
-### 🏢 Data Analyst (Software Engineer Background) | Aquevix Solutions Pvt Ltd, Delhi  
+### 🏢 Software Engineer | Aquevix Solutions Pvt Ltd, Delhi  
 _Jul 2024 – Present_
 - Extracted, validated, and analyzed large datasets for application testing and quality improvements.
 - Developed Python scripts for data validation and reporting.
 - Collaborated with Agile teams to improve data-driven decision-making during SDLC processes.
 
 ### 🏢 Python Developer | Anaptyss India, Noida  
-_Sep – Dec 2023_
+_Sep – Mar 2023_
 - Designed and maintained relational databases to support analytics projects.
 - Created **Power BI dashboards** delivering actionable insights for business stakeholders.
 - Developed scalable backend APIs using Django to serve analytical data needs.
