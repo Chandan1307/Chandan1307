@@ -3,7 +3,6 @@
 ## 🚀 About Me
 I'm a passionate **Data Analyst** and **Python Developer** with expertise in data analysis, visualization, cloud technologies (AWS), and automation testing.  
 Strong background in software testing, bug fixing, and delivering high-quality data-driven solutions.
-
 Currently exploring Big Data technologies like Hadoop and Spark to expand my analytical toolkit.
 
 ---
@@ -42,5 +41,5 @@ Currently exploring Big Data technologies like Hadoop and Spark to expand my ana
 ## 📫 Let's Connect
 
 - **Email:** infochandan1307@gmail.com
-- **LinkedIn:** linkedin.com/in/chandan1307
+- **LinkedIn:** www.linkedin.com/in/chandan1307
 - **GitHub:** https://github.com/Chandan1307/
