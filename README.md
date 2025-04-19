@@ -1,50 +1,73 @@
-Hi there, Chandan Choudhary
 
-About :
+# 👨‍💻 Chandan Choudhary
+**Software Engineer | Python | AI & ML Enthusiast | Data Analyst | Big Data Analyst | Cloud Technologies | Bug Fixing & Debugging | Software Testing**
 
-- 👨‍🎓 I have completed my Bachelor Degree in Computer Science Engineering from DCURST University Murthal Haryana.
-- 🚀 I am really passionate about Python Langauge, Artificial Intelligence, Machine Learning, Deep Learning and Natural Language Processing, Big Data Technologies (Hadoop & PySpark).
-- 👨🏻‍💻 I have 10 months of internship experience as a Python Developer and Data Analyst, split between League11 (6 months) and Anaptyss India (4 months).
-- 🌱 I’m currently learning Data Science Master Course from iNeuron Intelligence.
-- 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+---
 
-📫 Reach me at: infochandan1307@gmail.com
+## 🧩 About Me
+Software Engineer with a passion for **Python development**, **AI & Machine Learning**, **Data Analysis**, and **Big Data technologies**.  
+Experienced in **manual and automation testing**, **bug fixing**, **SDLC processes**, **cloud computing (AWS)**, and **database management**.  
+Dedicated to delivering **high-performance**, **optimized**, and **reliable** software and data-driven solutions.  
+Currently **open to work** in roles including:
+- Data Analyst
+- Business Data Analyst
+- Financial Data Analyst
+- Data Reporting Analyst
+- Big Data Analyst
 
-Skills: Python | Flask | Django Framework | MySQL, PostgreSQL | Statistics | Feature Engineering | Exploratory Data Analysis | Machine Learning | Deep Learning | Natural Language Processing | Big Data Technologies (Hadoop & PySpark).
+---
 
-EXPERTISE:-
+## 🛠️ Technical Skills
 
-• Python Developer
+- **Programming:** Python, Django, Flask, REST APIs, HTML, CSS
+- **Data Science & Analytics:** Numpy, Pandas, Machine Learning (Enthusiast), Data Visualization (Power BI)
+- **Database Management:** SQL, PostgreSQL
+- **Testing & Automation:** Selenium, Playwright, Postman
+- **Version Control:** Git, GitHub
+- **Cloud Technologies:** AWS (EC2, Elastic Beanstalk)
+- **Big Data Tools:** (learning/working towards - can specify like Spark, Hadoop if needed)
 
-• Django Developer
+---
 
-• Data Analytics
+## 📚 Education
 
-• Machine Learning
+**B.Tech. (Computer Science)**  
+_Deenbandhu Chhotu Ram University, Haryana_  
+_2017 – 2022_
 
-• Data Engineering
+---
 
-• Object-Oriented Programming (OOP)
+## 💼 Work Experience
 
-• Software Development Life Cycle (SDLC)
+### 🏢 Software Engineer | Aquevix Solutions Pvt Ltd, Delhi  
+_Jul 2024 – Present_
+- Performing manual and automation testing using **Playwright**, **Selenium**, and **Python**.
+- Developing and optimizing test cases, scripts, and frameworks.
+- API testing with **Postman** and **REST APIs**, including database validation (**SQL**).
+- Collaborating in Agile/Scrum teams to improve SDLC processes.
 
-• Database Management (MySQL, PostgreSQL, MongoDB (NoSQL))
+### 🏢 Software Engineer | Anaptyss India, Noida  
+_Sep – Dec 2023_
+- Developed scalable web applications using **Python** and **Django**.
+- Designed and managed databases for various projects.
+- Created and optimized **Power BI dashboards** for advanced data insights.
+- Engaged in continuous learning and knowledge sharing for project enhancements.
 
-• Frontend Development (HTML, CSS, Bootstrap5)
+### 🏢 Python Developer Trainee | Fantasy Sports Pvt Ltd, Gurugram  
+_Jan – Jun 2023_
+- Developed **Django-based** web applications and **RESTful APIs** for real-time data processing.
 
-• Version Control (Git)
+---
 
-• Problem Solving and Algorithm Design
+## 🚀 Certifications
 
-• API Development and Integration
+- **Data Science Master Certification** - iNeuron Intelligence
+- **Python Programming Certification** - GrowingSeed Technologies
 
-• Debugging and Testing
+---
 
-• Agile and Scrum Methodologies
+## 📫 Let's Connect
 
-**Introduction:**
-Welcome to my network! I'm Chandan Choudhary, a dedicated and versatile Software Engineer with a recent certification in Data Science Master, specializing in Machine Learning and Deep Learning. I hold a Bachelor's degree in Computer Science from Deenbandhu Chhotu Ram University Of Science And Technology.
-
-During my internships at Anaptyss India and Fantasy Sports Pvt Ltd (League11), I developed robust skills in Python, Django, Flask, MySQL, PostgreSQL, HTML, CSS, and Bootstrap5. I contributed to various projects by developing web applications, resolving client issues, conducting comprehensive data collection, cleaning, and analysis, and creating insightful Power BI dashboards. My experience has reinforced my ability to work effectively in team settings and maintain a high standard of excellence.
-
-I am passionate about leveraging technology to address real-world challenges and thrive in dynamic, collaborative environments where I can apply my skills and continue learning. Feel free to explore my profile to learn more about my projects and experiences.
+- **Email:** infochandan1307@gmail.com
+- **LinkedIn:** www.linkedin.com/in/chandan1307
+- **GitHub:** https://github.com/Chandan1307/Chandan1307
