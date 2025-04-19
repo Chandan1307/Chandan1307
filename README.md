@@ -5,7 +5,7 @@
 ---
 
 ## 🧩 About Me
-Software Engineer with a passion for **Python development**, **AI & Machine Learning**, **Data Analysis**, and **Big Data technologies**.  
+Software Engineer with a passion for **Python development**, **AI & ML**, **Data Analysis**, and **Big Data technologies**.  
 Experienced in **manual and automation testing**, **bug fixing**, **SDLC processes**, **cloud computing (AWS)**, and **database management**.  
 Dedicated to delivering **high-performance**, **optimized**, and **reliable** software and data-driven solutions.  
 Currently **open to work** in roles including:
