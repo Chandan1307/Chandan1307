@@ -77,5 +77,5 @@ _Jan – Jun 2023_
 ## 📫 Let's Connect
 
 - **Email:** infochandan1307@gmail.com
-- **LinkedIn:** www.linkedin.com/in/chandan1307
-- **GitHub:** https://github.com/Chandan1307/Chandan1307
+- **LinkedIn:** linkedin.com/in/chandan1307
+- **GitHub:** https://github.com/Chandan1307/
