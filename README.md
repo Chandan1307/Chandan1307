@@ -1,76 +1,41 @@
+# 👋 Hi there, I'm Chandan Choudhary!
 
-# 👨‍💻 Chandan Choudhary
-**Data Analyst | Python Developer | AI & ML Enthusiast | Business Data Analyst | Financial Data Analyst | Big Data Enthusiast**
+## 🚀 About Me
+I'm a passionate **Data Analyst** and **Python Developer** with expertise in data analysis, visualization, cloud technologies (AWS), and automation testing.  
+Strong background in software testing, bug fixing, and delivering high-quality data-driven solutions.
 
----
-
-## 🧩 About Me
-Passionate **Data Analyst** with a strong foundation in **Python programming**, **SQL databases**, **data visualization**, and **cloud technologies (AWS)**.  
-Proficient in collecting, cleaning, analyzing, and visualizing data to drive actionable insights and informed decision-making.  
-Transitioned from software engineering and QA roles with a strong emphasis on **data validation** and **process optimization**.  
-Dedicated to building scalable and efficient data-driven solutions.  
-
-**Open to work** in roles such as:
-- Data Analyst
-- Business Data Analyst
-- Financial Data Analyst
-- Data Reporting Analyst
-- Big Data Analyst
+Currently exploring Big Data technologies like Hadoop and Spark to expand my analytical toolkit.
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Programming & Data Analysis:** Python (Pandas, Numpy), SQL, Data Cleaning, EDA
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
-- **Database Management:** PostgreSQL, SQL
-- **Cloud Technologies:** AWS (EC2, S3 basics), Elastic Beanstalk
-- **Big Data Basics:** Understanding of Hadoop, Spark (Learning Stage)
+## 🛠️ Skills
+- **Languages & Frameworks:** Python, Django (Basic), Flask (Basic)
+- **Data Analysis & Visualization:** Power BI, Pandas, Matplotlib, Seaborn
+- **Database Management:** PostgreSQL, MySQL, SQL
+- **Testing & Automation:** Selenium, Playwright, Postman
+- **Cloud Platforms:** AWS (EC2, S3, Elastic Beanstalk)
+- **Big Data Tools:** Basics of Hadoop and Spark
 - **Version Control:** Git, GitHub
 
 ---
 
-## 📚 Education
-
-**B.Tech. (Computer Science)**  
-_Deenbandhu Chhotu Ram University, Haryana_  
-_2017 – 2022_
-
----
-
-## 💼 Work Experience
-
-### 🏢 Software Engineer | Aquevix Solutions Pvt Ltd, Delhi  
-_Jul 2024 – Present_
-- Extracted, validated, and analyzed large datasets for application testing and quality improvements.
-- Developed Python scripts for data validation and reporting.
-- Collaborated with Agile teams to improve data-driven decision-making during SDLC processes.
-
-### 🏢 Python Developer | Anaptyss India, Noida  
-_Sep – Mar 2023_
-- Designed and maintained relational databases to support analytics projects.
-- Created **Power BI dashboards** delivering actionable insights for business stakeholders.
-- Developed scalable backend APIs using Django to serve analytical data needs.
-
-### 🏢 Python Developer Trainee | Fantasy Sports Pvt Ltd, Gurugram  
-_Jan – Jun 2023_
-- Built Django-based web applications with real-time data APIs.
-- Implemented database designs optimized for high-volume transactional data.
+## 📈 Current Focus
+- Deepening knowledge in Big Data Analytics
+- Expanding AI and ML skillset
+- Advanced Data Visualization with Python & Power BI
 
 ---
 
-## 🚀 Certifications
-
-- **Data Science Master Certification** - iNeuron Intelligence
-- **Python Programming Certification** - GrowingSeed Technologies
+## 📚 Certifications
+- Data Science Master Certification — iNeuron
+- Python Programming Certification — GrowingSeed Technologies
 
 ---
 
-## 📈 Projects (Recommended to Add)
-
-- **Sales Data Dashboard**: Built an interactive Power BI dashboard to analyze monthly sales performance.
-- **Customer Churn Prediction**: Analyzed customer datasets using Python and built predictive models.
-- **Data Cleaning Pipeline**: Automated ETL (Extract, Transform, Load) processes for messy datasets using Python.
+## 📊 Featured Projects
+- **Sales Dashboard:** Built an interactive Power BI dashboard to track sales KPIs.
+- **Customer Churn Prediction:** Created predictive ML models to analyze customer churn behavior.
+- **ETL Data Cleaning Pipeline:** Automated messy data cleaning using Python.
 
 ---
 
