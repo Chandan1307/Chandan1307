@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate **Business Analyst, Strategy** with expertise in data analysis, visualization, cloud technologies (AWS), and automation.  
-Strong background in software testing, bug fixing, and delivering high-quality data-driven solutions.
+Strong background in testing, bug fixing, and delivering high-quality data-driven solutions.
 Business Analysis with 2.8 years of experience in Client handling, testing, automation, API validation, and data-driven analysis.
 
 With a strong background in understanding requirements, breaking down workflows, and validating business rules, I naturally developed an interest in the analytical and functional side of product development.
@@ -19,7 +19,7 @@ Over time, I realized that my strengths align deeply with problem-solving, requi
 
 ## 🛠️ Skills
 - **Languages & Frameworks:** Python, Django
-- **Business Analysis & Documentation: Requirement clarification with clients, User stories, Acceptance criteria,
+- **Business Analysis & Documentation:** Requirement clarification with clients, User stories, Acceptance criteria,
 Process mapping 
 - **Data Analysis & Visualization:** Power BI, Pandas, Matplotlib, Seaborn
 - **Database Management:** PostgreSQL, MySQL, SQL
