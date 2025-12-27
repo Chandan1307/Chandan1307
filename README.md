@@ -54,10 +54,10 @@ Version Control
 ---
 
 ## 📚 Certifications
-• ECBA (Entry Certificate in Business Analysis) – Training completed (Udemy)
+- ECBA (Entry Certificate in Business Analysis) – Training completed (Udemy)
 - Agile & Business Analysis fundamentals - Udemy
-• Data Science Master Certification — iNeuron
-• Python Programming Certification — GrowingSeed Technologies
+- Data Science Master Certification — iNeuron
+- Python Programming Certification — GrowingSeed Technologies
 
 ---
 
