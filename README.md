@@ -1,20 +1,20 @@
-# 👋 Hi there, I'm Chandan Choudhary!
-
+#👋 Hi there, I'm Chandan Choudhary!
 ## 🚀 About Me
-I'm a passionate **Business Analyst, Strategy** with expertise in data analysis, visualization, cloud technologies (AWS), and automation.  
-Strong background in testing, bug fixing, and delivering high-quality data-driven solutions.
-Business Analysis with 2.8 years of experience in Client handling, testing, automation, API validation, and data-driven analysis.
 
-With a strong background in understanding requirements, breaking down workflows, and validating business rules, I naturally developed an interest in the analytical and functional side of product development.
+I am a passionate Business Analyst (Strategy-focused) with 2.8 years of experience in client handling, testing, automation, API validation, and data-driven analysis. I bring a strong analytical mindset combined with hands-on technical expertise to deliver high-quality, business-aligned solutions.
+
+My background includes data analysis and visualization, cloud technologies (AWS), backend validation, and automation. Through extensive experience in requirement understanding, workflow breakdown, and business rule validation, I developed a strong interest in the analytical and functional aspects of product development.
+
+I thrive at the intersection of business and technology—translating complex requirements into actionable insights, clear documentation, and reliable solutions.
 
 What I bring to the table:
-• Requirement understanding & converting them into clear test scenarios
-• API analysis, backend validation, and SQL-based data checks
-• Writing Python-based automation scripts using Playwright
+• Requirement analysis and conversion into clear test scenarios and user stories
+• API analysis, backend validation, and SQL-based data verification
+• Client communication, status reporting, and risk/issue management
 • Communicating with clients, gathering updates, and reporting risks/issues
 • Cross-functional collaboration with developers, QA teams, and stakeholders
 
-Over time, I realized that my strengths align deeply with problem-solving, requirement analysis, user-story detailing, and improving product functionality, which encouraged me to move toward Business Analyst roles.
+Over time, I recognized that my strengths lie in problem-solving, requirement analysis, user story detailing, and improving product functionality. This realization reinforced my transition toward Business Analyst roles focused on strategy and impact.
 ---
 
 ## 🛠️ Skills
