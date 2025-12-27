@@ -18,35 +18,46 @@ Over time, I recognized that my strengths lie in problem-solving, requirement an
 ---
 
 ## 🛠️ Skills
-- **Languages & Frameworks:** Python, Django
-- **Business Analysis & Documentation:** Requirement clarification with clients, User stories, Acceptance criteria,
-Process mapping 
-- **Data Analysis & Visualization:** Power BI, Pandas, Matplotlib, Seaborn
-- **Database Management:** PostgreSQL, MySQL, SQL
-- **Testing & Automation:** Selenium, Playwright, Postman
-- **Cloud Platforms:** AWS (EC2, S3, Elastic Beanstalk)
-- **Big Data Tools:** Hadoop and Spark
-- **Version Control:** Git, GitHub
+Business Analysis & Documentation:
+• Requirement elicitation and clarification with clients
+• User stories, acceptance criteria, and functional specifications
+• Process mapping (flowcharts, basic BRD / FRD understanding)
+• Business rule validation and requirement traceability
 
----
+Tools & Platforms:
+• ActiveCollab (Project & task management)
+• Sentry (defect / issue monitoring)
+• Postman (API analysis and validation)
 
-## 📈 Current Focus
-- Deepening knowledge in Big Data Analytics
-- Expanding AI and ML skillset
-- Advanced Data Visualization with Python & Power BI
+Testing & Quality Assurance (Supporting Skillset)
+• Functional, regression, and manual testing
+• Defect reporting, re-testing, and validation
+• Requirement-based test scenario design
+
+Automation & Scripting
+• Python (basic to intermediate scripting)
+• Playwright (test automation – functional flows)
+
+APIs & Web Applications
+• REST APIs and request/response analysis
+• API validation using Postman
+• Understanding of web application architecture
+
+Data & Databases
+• SQL (PostgreSQL) – data extraction and validation
+• Data analysis using Excel (basic reporting, data checks)
+
+Version Control
+• Git and GitHub (code and script versioning)
+• Advanced Data Visualization with Python & Power BI
 
 ---
 
 ## 📚 Certifications
-- Data Science Master Certification — iNeuron
-- Python Programming Certification — GrowingSeed Technologies
-
----
-
-## 📊 Featured Projects
-- **Sales Dashboard:** Built an interactive Power BI dashboard to track sales KPIs.
-- **Customer Churn Prediction:** Created predictive ML models to analyze customer churn behavior.
-- **ETL Data Cleaning Pipeline:** Automated messy data cleaning using Python.
+• ECBA (Entry Certificate in Business Analysis) – Training completed (Udemy)
+• Agile & Business Analysis fundamentals - Udemy
+• Data Science Master Certification — iNeuron
+• Python Programming Certification — GrowingSeed Technologies
 
 ---
 
