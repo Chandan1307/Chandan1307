@@ -1,9 +1,9 @@
 #👋 Hi there, I'm Chandan Choudhary!
 ## 🚀 About Me
 
-I am a passionate Business Analyst (Strategy-focused) with 2.8 years of experience in client handling, testing, automation, API validation, and data-driven analysis. I bring a strong analytical mindset combined with hands-on technical expertise to deliver high-quality, business-aligned solutions.
+I am a professional with 2.8 years of experience in software testing and client-facing roles, currently transitioning into an Entry-Level Business Analyst role. My background in testing, automation, API validation, and data analysis has given me a strong foundation in understanding business requirements and validating functional outcomes.
 
-My background includes data analysis and visualization, cloud technologies (AWS), backend validation, and automation. Through extensive experience in requirement understanding, workflow breakdown, and business rule validation, I developed a strong interest in the analytical and functional aspects of product development.
+Through hands-on experience, I have worked closely with requirements analysis, workflow understanding, and business rule validation, which naturally led me toward the analytical and functional aspects of product development.
 
 I thrive at the intersection of business and technology—translating complex requirements into actionable insights, clear documentation, and reliable solutions.
 
