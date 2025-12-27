@@ -13,8 +13,8 @@ What I bring to the table:
 - Client communication, status reporting, and risk/issue management
 - Communicating with clients, gathering updates, and reporting risks/issues
 - Cross-functional collaboration with developers, QA teams, and stakeholders
-
-Over time, I recognized that my strengths lie in problem-solving, requirement analysis, user story detailing, and improving product functionality. This realization reinforced my transition toward Business Analyst roles focused on strategy and impact.
+  
+  Over time, I recognized that my strengths lie in problem-solving, requirement analysis, user story detailing, and improving product functionality. This realization reinforced my transition toward Business         Analyst roles focused on strategy and impact.
 ---
 
 ## 🛠️ Skills
