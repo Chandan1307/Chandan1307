@@ -1,7 +1,7 @@
 #👋 Hi there, I'm Chandan Choudhary!
 ## 🚀 About Me
 
-I am a professional with 2.8 years of experience in software testing, supporting requirement gathering, client communication, and functional validation for web applications. Actively transitioning into an Entry-Level / Associate Business Analyst role. Experienced in translating business requirements into clear scenarios and acceptance criteria, identifying requirement gaps, and ensuring alignment between business and technical teams. Hands-on exposure to requirement documentation, SQL-based data validation, Excel reporting, and supporting UAT activities, with a strong analytical and problem-solving mindset.
+I am a professional with 2.8 years of experience in software testing, supporting requirement gathering, client communication, and functional validation for web applications. Aspiring Business Analyst role. Experienced in translating business requirements into clear scenarios and acceptance criteria, identifying requirement gaps, and ensuring alignment between business and technical teams. Hands-on exposure to requirement documentation, SQL-based data validation, Excel reporting, and supporting UAT activities, with a strong analytical and problem-solving mindset.
 
 Through hands-on experience, I have worked closely with requirements analysis, workflow understanding, and business rule validation, which naturally led me toward the analytical and functional aspects of product development.
 
