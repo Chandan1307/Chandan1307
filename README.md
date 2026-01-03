@@ -21,31 +21,31 @@ In my current role, I work directly with Indian clients to gather requirements, 
 ## 🛠️ Skills
 🔹 Business Analysis & Functional Skills
 
-Requirement Gathering & Elicitation
-Business Rule Validation
-User Stories & Acceptance Criteria
-Functional Specification (BRD / FRD – basic)
+Requirement Gathering & Elicitation, 
+Business Rule Validation, 
+User Stories & Acceptance Criteria, 
+Functional Specification (BRD / FRD – basic), 
 
 Client Communication & Requirement Clarification
 
 🔹 Tools & Platforms
 
-ActiveCollab (Task & Ticket Management)
-Sentry (Production Issue Monitoring)
-Postman (API Validation
+ActiveCollab (Task & Ticket Management), 
+Sentry (Production Issue Monitoring), 
+Postman (API Validation), 
 MS Excel (Reporting, Data Validation)
 
 🔹 Data & API Skills
 
-SQL (PostgreSQL – data checks & validation)
-REST API Analysis
+SQL (PostgreSQL – data checks & validation), 
+REST API Analysis, 
 Backend Data Validation
 
 🔹 Supporting QA & Automation (keep LAST)
 
-Functional & Regression Testing
-Defect Reporting & Retesting
-Playwright (basic automation support)
+Functional & Regression Testing, 
+Defect Reporting & Retesting, 
+Playwright (basic automation support), 
 Python (basic scripting)
 
 ---
