@@ -14,42 +14,50 @@ What I bring to the table:
 - Communicating with clients, gathering updates, and reporting risks/issues
 - Cross-functional collaboration with developers, QA teams, and stakeholders
   
-  Over time, I recognized that my strengths lie in problem-solving, requirement analysis, user story detailing, and improving product functionality. This realization reinforced my transition toward Business         Analyst roles focused on strategy and impact.
+In my current role, I work directly with Indian clients to gather requirements, clarify business workflows, monitor production issues using Sentry, raise and track tickets, and coordinate with developers to ensure timely resolution and accurate delivery.
+
 ---
 
 ## 🛠️ Skills
-Business Analysis & Documentation:
-- Requirement elicitation and clarification with clients
-- User stories, acceptance criteria, and functional specifications
-- Process mapping (flowcharts, basic BRD / FRD understanding)
-- Business rule validation and requirement traceability
+🔹 Business Analysis & Functional Skills
 
-Tools & Platforms:
-- ActiveCollab (Project & task management)
-- Sentry (defect / issue monitoring)
-- Postman (API analysis and validation)
+Requirement Gathering & Elicitation
 
-Testing & Quality Assurance (Supporting Skillset)
-- Functional, regression, and manual testing
-- Defect reporting, re-testing, and validation
-- Requirement-based test scenario design
+Business Rule Validation
 
-Automation & Scripting
-- Python (basic to intermediate scripting)
-- Playwright (test automation – functional flows)
+User Stories & Acceptance Criteria
 
-APIs & Web Applications
-- REST APIs and request/response analysis
-- API validation using Postman
-- Understanding of web application architecture
+Functional Specification (BRD / FRD – basic)
 
-Data & Databases
-- SQL (PostgreSQL) – data extraction and validation
-- Data analysis using Excel (basic reporting, data checks)
+Client Communication & Requirement Clarification
 
-Version Control
-- Git and GitHub (code and script versioning)
-- Advanced Data Visualization with Python & Power BI
+🔹 Tools & Platforms
+
+ActiveCollab (Task & Ticket Management)
+
+Sentry (Production Issue Monitoring)
+
+Postman (API Validation)
+
+MS Excel (Reporting, Data Validation)
+
+🔹 Data & API Skills
+
+SQL (PostgreSQL – data checks & validation)
+
+REST API Analysis
+
+Backend Data Validation
+
+🔹 Supporting QA & Automation (keep LAST)
+
+Functional & Regression Testing
+
+Defect Reporting & Retesting
+
+Playwright (basic automation support)
+
+Python (basic scripting)
 
 ---
 
