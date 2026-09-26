@@ -24,63 +24,64 @@ Contact: Reach out here or email me at [infochandan1307@gmail.com]
 ---
 
 🛠️ Skills
+
 🔹 Business Analysis & Requirements
 
-Requirements Gathering & Elicitation
+    Requirements Gathering & Elicitation
 
-Requirements Analysis & Documentation
+    Requirements Analysis & Documentation
 
-Business Rule Validation
+    Business Rule Validation
 
-User Stories & Acceptance Criteria
+    User Stories & Acceptance Criteria
 
-BRD / FRD / SDRF Documentation
+    BRD / FRD / SDRF Documentation
 
-Functional Requirements & Specifications
+    Functional Requirements & Specifications
 
-Process Mapping & Workflow Analysis
+    Process Mapping & Workflow Analysis
 
-Requirement Clarification & Gap Analysis
+    Requirement Clarification & Gap Analysis
 
-Stakeholder & Client Management
+    Stakeholder & Client Management
 
-UAT Coordination & Support
+    UAT Coordination & Support
 
-SDLC & Agile Collaboration
+    SDLC & Agile Collaboration
 
 🔹 Data & API Analysis
 
-SQL – PostgreSQL (Data Validation & Analysis)
+    SQL – PostgreSQL (Data Validation & Analysis)
 
-REST API Analysis & Validation
+    REST API Analysis & Validation
 
-Postman – API Testing & Validation
+    Postman – API Testing & Validation
 
-Backend Data Validation
+    Backend Data Validation
 
-Data Reconciliation & Business Rule Checks
+    Data Reconciliation & Business Rule Checks
 
 🔹 Tools & Platforms
 
-ActiveCollab – Task & Ticket Management
+    ActiveCollab – Task & Ticket Management
 
-Sentry – Production Issue Monitoring
+    Sentry – Production Issue Monitoring
 
-MS Excel – Reporting, Data Analysis & Validation
+    MS Excel – Reporting, Data Analysis & Validation
 
 🔹 QA & Testing Support
 
-Functional Testing
+    Functional Testing
 
-Regression Testing
+    Regression Testing
 
-Defect Reporting & Retesting
+    Defect Reporting & Retesting
 
-UAT Support & Validation
+    UAT Support & Validation
 
-Playwright – Basic Automation Support
+    Playwright – Basic Automation Support
 
-Python – Basic Scripting
+    Python – Basic Scripting
 
 ---
 
